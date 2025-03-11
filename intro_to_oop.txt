@@ -1,0 +1,8 @@
+oop concepts:-
+------------
+-class
+-object
+-encapsulation
+-abstraction
+-inheritance
+-polymorphism
