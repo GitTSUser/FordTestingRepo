@@ -1,0 +1,4 @@
+Inheritance is a concept of 
+
+deriving the properties and behaviors
+ from super class to subclass.

@@ -1,0 +1,5 @@
+abstraction is a process of
+
+ hiding the un-wanted details
+ and presenting the essential
+details.
